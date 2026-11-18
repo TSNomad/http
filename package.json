@@ -1,9 +1,9 @@
 {
   "name": "@tsnomad/http",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "HTTP request and response contracts, the TypeScript counterpart to PHPNomad's http package",
   "type": "module",
-  "license": "GPL-3.0-or-later",
+  "license": "MIT",
   "homepage": "https://github.com/tsnomad/http#readme",
   "bugs": {
     "url": "https://github.com/tsnomad/http/issues"
